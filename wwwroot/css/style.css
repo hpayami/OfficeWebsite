@@ -142,6 +142,10 @@ img{
 /* HEADER */
 /*--------------------*/
 
+#top-menu {
+	margin-left: 2.5rem;
+}
+
 #header{
 	float: left;
 	display: inline;
